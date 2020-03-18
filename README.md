@@ -1,5 +1,5 @@
 # kaggle-template
 
-### server $B4D6-$N9=C[(B
- - guchio_utils $B$N(B setup.sh $B$rMxMQ(B
- - gpu, cpu $B$K$h$C$F<c43(B Dockerfile $B$r=q$-49$($k(B
+### server 環境の構築
+ - guchio_utils の setup.sh を利用
+ - gpu, cpu によって若干 Dockerfile を書き換える
